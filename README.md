@@ -18,5 +18,5 @@ To reinstall this application, download all of the documents in this GitHub to y
 # Project Roles
 |Rohan Shah  | Ben Taylor |Rachel Samojedny |Rohan Vanjani | 
 |--|--|--|--|
-|Back-End Developer  |Back-End Developer  |Front-End Developer | Front-End Developer / Flask Developer
+|Back-End Developer  |Back-End Developer / Fearless Leader |Front-End Developer | Front-End Developer / Flask Developer
 
